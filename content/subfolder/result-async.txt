@@ -1,0 +1,1 @@
+here is the result: Hello This is my first node text, Hello This is my second node text
